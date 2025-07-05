@@ -36,15 +36,15 @@
 
 # Chat++ 5
 
-Chat++ is an experimental AI-powered video chatbot I built between 2022 and 2023. It enables real-time conversations while also analyzing the camera feed to provide interactive, context-aware responses.
+**Chat++** is a simple, AI-powered chatbot developed between 2022 and 2023. It was built to experiment with conversational AI and explore the possibilities of real-time, context-aware text interactions.
 
-💡 The project was designed to explore the intersection of video communication and AI perception.
+💡 The project was designed to explore the intersection of natural language understanding and interactive dialogue systems.
 
-⚠️ Note: This project is currently undocumented and has not been updated since August 2024. Use at your own risk.
+⚠️ **Note:** This project is currently undocumented and has not been updated since August 2024. Use at your own risk.
 
-Peharge
+## Overview
 
-[More](https://github.com/Peharge/Chatpp)
+Chat++ is a standard text-based chatbot, similar in purpose to modern AI assistants. It engages in real-time conversations and is designed to respond intelligently to user input based on conversational context.
 
 <div align="center">
 
